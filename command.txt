@@ -1,0 +1,1 @@
+python3 detect.py --class 0 --weights best1.pt --conf-thres=0.4 --source test.pcap --view-img

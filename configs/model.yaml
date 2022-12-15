@@ -1,0 +1,6 @@
+train: D:\Code\Jiuzhou\yolov5_Ouster-lidar-example-car\data\outputs\images\train\
+val: D:\Code\Jiuzhou\yolov5_Ouster-lidar-example-car\data\outputs\images\val\
+
+nc: 1
+
+names: ['car']
